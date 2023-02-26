@@ -1,3 +1,8 @@
+PROPONENTS
+DIESTO, Francis Ryan
+MACAN, Kiana
+TALE, Blessy
+
 ========================================================================
 
 This project is a learning evidence output for the course subject
