@@ -1,7 +1,5 @@
 ========================================================================
 
-READ ME
-
 This project is a learning evidence output for the course subject
 specified above. This project was submitted A.Y. 2022-2023.
 
